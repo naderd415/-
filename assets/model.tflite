@@ -1,0 +1,4 @@
+// MOCK TFLITE BINARY REPRESENTATION
+// Replace this file with your custom trained Teachable Machine model (model.tflite)
+// Ensure that the model input tensor shape is Float32 [1, 224, 224, 3]
+// and the labels match the categories listed inside assets/labels.txt

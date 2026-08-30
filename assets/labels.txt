@@ -1,0 +1,5 @@
+cup
+mug
+glass
+can
+bottle
